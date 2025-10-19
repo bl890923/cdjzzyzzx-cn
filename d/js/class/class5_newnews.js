@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/about/jj/7.html\" title=\"学校简介\">学校简介</a></li>");

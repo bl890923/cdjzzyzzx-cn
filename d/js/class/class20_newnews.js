@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/edu/xs/10.html\" title=\"李萌萌父亲来学校看自己孩子\">李萌萌父亲来学校看自己孩子</a></li>");

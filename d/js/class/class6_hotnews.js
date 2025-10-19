@@ -1,0 +1,1 @@
+document.write("<li><a href=\"/about/ys/46.html\" title=\"学校优势\">学校优势</a></li>");
